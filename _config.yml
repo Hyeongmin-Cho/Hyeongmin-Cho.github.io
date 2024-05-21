@@ -2,14 +2,14 @@
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
 author:           HE Tao
-email:            hyeongmin0121@gmail.com
+email:            sighingnow@gmail.com
 description: >
   Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://Hyeongmin-Cho.github.io'
+url:              'https://sighingnow.github.io'
 baseurl:          '/'
 rss:              RSS
 
