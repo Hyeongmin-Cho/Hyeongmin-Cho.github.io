@@ -19,10 +19,18 @@ permalink: /
 
 
 ## Experience
+ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 - Current</b></span> <br>
+\- AI Research Engineer (전문연구요원)
 
 ---
 
 ## Education
+<b>Master's in Engineering</b> <span style="float: right;"><b>2023.02 - Current</b></span> <br>
+\- Korea University, Anam <br>
+(Advisor: Prof. Sangkyun Lee [[Lab](http://air.korea.ac.kr/)]) <br><br>
+
+<b>Bachelor's in Computer Engineering</b> <span style="float: right;"><b>2023.02 - Current</b></span> <br>
+\- Hanyang University, ERICA <br>
 
 ---
 
