@@ -25,11 +25,11 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 ---
 
 ## Education
-<b>Master's in Engineering</b> <span style="float: right;"><b>2023.02 - Current</b></span> <br>
+<b>Master's in Engineering</b> <span style="float: right;"><b>2020.03 - 2022.02</b></span> <br>
 \- Korea University, Anam <br>
 (Advisor: Prof. Sangkyun Lee [[Lab](http://air.korea.ac.kr/)]) <br><br>
 
-<b>Bachelor's in Computer Engineering</b> <span style="float: right;"><b>2023.02 - Current</b></span> <br>
+<b>Bachelor's in Computer Engineering</b> <span style="float: right;"><b>2015.03 - 2019.02</b></span> <br>
 \- Hanyang University, ERICA <br>
 
 
@@ -37,11 +37,11 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 
 ## Publications
 [2] <b>Data Quality Measures and Efficient Evaluation Algorithms for Large-Scale High-Dimensional Data</b> <br>
-Hyeongmin Cho, Sangkyun Lee <br>
+<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
 Applied Sciences (SCIE, IF 2.7), 11(2) <br><br>
 
 [1] <b>Machine Learning Data Poisoning Quantification using Linear Discriminant Analysis</b> <br>
-Hyeongmin Cho, Sangkyun Lee <br>
+<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
 Conference on Information Security and Cryptography
 
 ---
@@ -51,12 +51,17 @@ Conference on Information Security and Cryptography
 ---
 
 ## Patents
+[2] <b>Network attack detection system and network attack detection method</b> <br>
+<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
+(Application No. 10-2021-0057656, Patent No. 10-2525-5930000)
+
+[1] <b>Network intrusion detection system and network intrusion detection method</b> <br>
+<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
+(Application No. 10-2021-0057630, Patent No. 10-2526-9350000)
 
 ---
 
 ## Projects
-
-
 
 <b>Predicting Particulate Matter Concentration of Fine Dust for Air Quality Forecasting</b> <span style="float: right;"><b>2019 - 2022</b></span> <br>
 with National Institute of Environmental Research (NIER) <br><br>
