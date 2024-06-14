@@ -46,10 +46,6 @@ Conference on Information Security and Cryptography
 
 ---
 
-## Projects
-
----
-
 ## Patents
 [2] <b>Network attack detection system and network attack detection method</b> <br>
 <u>Hyeongmin Cho</u>, Sangkyun Lee <br>
