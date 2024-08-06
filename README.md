@@ -62,7 +62,7 @@ Conference on Information Security and Cryptography
 <b>Predicting Particulate Matter Concentration of Fine Dust for Air Quality Forecasting</b> <span style="float: right;"><b>2019 - 2022</b></span> <br>
 with National Institute of Environmental Research (NIER) <br><br>
 
-<b>Research on AI-based Network Instrusion Detection System (NIDS) & Explainable AI (XAI)</b> <span style="float: right;"><b>2021 - 2022</b></span> <br>
+<b>Research on AI-based Network Instrusion Detection System & Explainable AI</b> <span style="float: right;"><b>2021 - 2022</b></span> <br>
 with LIG Nex1 <br><br>
 
 <b>Research on AI-based Network Instrusion Detection System (NIDS)</b> <span style="float: right;"><b>2020 - 2021</b></span> <br>
