@@ -13,7 +13,7 @@ permalink: /
 
 <b>Research Interests: </b>Large Language Model (LLM), Anomaly Detection, Generative Models, Natural Language Processing 
 
-[CV] [[:octocat: Github](https://github.com/Hyeongmin-Cho)] [[🤗Hugging Face](https://huggingface.co/Lowenzahn)] [[Google Scholar](https://scholar.google.com/citations?user=ir9BMOEAAAAJ&hl=ko&oi=ao)] [LinedIn]
+[CV] [[Github](https://github.com/Hyeongmin-Cho)] [[🤗Hugging Face](https://huggingface.co/Lowenzahn)] [[Google Scholar](https://scholar.google.com/citations?user=ir9BMOEAAAAJ&hl=ko&oi=ao)] [LinedIn]
 
 
 <br><br>
