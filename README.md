@@ -136,7 +136,7 @@ with Korea University Ansan Hospital <br><br>
 - Stanford/CS229
 - Convex Optimization
 - Linear Algebra and Learning from Data
-- The Elements of Statistical Learning (ELS)
+- The Elements of Statistical Learning (ESL)
 - An Introduction to Statistical Learning (ISLR)
 - Bayesian Inference
 
