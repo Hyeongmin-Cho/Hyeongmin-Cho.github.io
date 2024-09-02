@@ -46,10 +46,10 @@ Applied Sciences (SCIE, IF 2.7), 11(2) <br><br>
 
 [2] <b>Machine Learning Data Poisoning Quantification using Linear Discriminant Analysis</b> <br>
 <u>Hyeongmin Cho</u>, Sangkyun Lee <br>
-Conference on Information Security and Cryptography
+Conference on Information Security and Cryptography <br><br>
 
 [1] <b>A study on Neural Network-based Anomaly Detection and Data Augmentation Method to Improve the Performance of Network IDS</b> <br>
-Master's Thesis
+Master's Thesis <br><br>
 
 ---
 
@@ -74,7 +74,6 @@ with LIG Nex1 <br><br>
 
 <b>Research on AI-based Network Instrusion Detection System (NIDS)</b> <span style="float: right;"><b>2020 - 2021</b></span> <br>
 with LIG Nex1 <br><br>
-
 
 <b>Research on Quality Measures for Machine Learning Data</b> <span style="float: right;"><b>2019 - 2020</b></span> <br>
 with Telecommunications Technology Association (TTA) <br><br>
