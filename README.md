@@ -98,17 +98,17 @@ with Korea University Ansan Hospital <br><br>
 
 ## Seminar
 <b>[14] Variational Autoencoder (Comprehensive)</b> <span style="float: right;"><b>2021</b></span> <br>
-\- Bayesian Inference, Variational Inference, Variational AutoEncoder
+&emsp;\- Bayesian Inference, Variational Inference, Variational AutoEncoder
 
 <b>[13] Anomaly Detection (Comprehensive)</b> <span style="float: right;"><b>2021</b></span> <br>
-\- ODIN, AnoGAN, Deep-SVDD, DASVDD
+&emsp;\- ODIN, AnoGAN, Deep-SVDD, DASVDD
 
 <b>[12] Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> <span style="float: right;"><b>2021</b></span> <br>
 
 <b>[11] WaNet - Imperceptible Warping-based Backdoor Attack</b> <span style="float: right;"><b>2021</b></span> <br>
 
 <b>[10] Sampling Methods</b> <span style="float: right;"><b>2021</b></span> <br>
-\- Monte Carlo, Rejection Sampling, MCMC
+&emsp;\- Monte Carlo, Rejection Sampling, MCMC
 
 <b>[9] Weight Uncertainty in Neural Networks</b> <span style="float: right;"><b>2020</b></span> <br>
 
@@ -118,15 +118,15 @@ with Korea University Ansan Hospital <br><br>
 
 <b>[6] Flow-based Generative models (NICE, GLOW)</b> <span style="float: right;"><b>2020</b></span> <br>
 
-<b>[5] Wasserstein GAN 2017</b> <span style="float: right;"><b>2020</b></span> <br>
+<b>[5] Wasserstein GAN 2017</b> <span style="float: right;"><b>2019</b></span> <br>
 
-<b>[4] Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition</b> <span style="float: right;"><b>2020</b></span> <br>
+<b>[4] Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition</b> <span style="float: right;"><b>2019</b></span> <br>
 
-<b>[3] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</b> <span style="float: right;"><b>2020</b></span> <br>
+<b>[3] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</b> <span style="float: right;"><b>2019</b></span> <br>
 
-<b>[2] Part-based motion descriptor image for human action recognition</b> <span style="float: right;"><b>2020</b></span> <br>
+<b>[2] Part-based motion descriptor image for human action recognition</b> <span style="float: right;"><b>2019</b></span> <br>
 
-<b>[1] Image zooming using directional cubic convolution interpolation</b> <span style="float: right;"><b>2020</b></span> <br>
+<b>[1] Image zooming using directional cubic convolution interpolation</b> <span style="float: right;"><b>2019</b></span> <br>
 
 ---
 
