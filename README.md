@@ -36,9 +36,9 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 ---
 
 ## Publications
-[4] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach</b> <br>
+[4] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach (to appear)</b> <br>
 <u>Hyeongmin Cho</u>, Sooyoung Yoo, Borham Kim, Sowon Jang, Leonard Sunwoo, Sanghwan Kim, Donghyoung Lee, Seok Kim, Sejin Nam and Jin-Haeng Chung<br>
-Journal of Biomedical Informatics (SCIE, IF 4.0, to appear) <br><br>
+Journal of Biomedical Informatics (SCIE, IF 4.0) <br><br>
 
 [3] <b>Data Quality Measures and Efficient Evaluation Algorithms for Large-Scale High-Dimensional Data</b> <br>
 <u>Hyeongmin Cho</u>, Sangkyun Lee <br>
