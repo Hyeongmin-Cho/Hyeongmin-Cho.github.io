@@ -118,7 +118,7 @@ with Korea University Ansan Hospital <br><br>
 
 <b>[6] Flow-based Generative models (NICE, GLOW)</b> <span style="float: right;"><b>2020</b></span> <br>
 
-<b>[5] Wasserstein GAN 2017</b> <span style="float: right;"><b>2019</b></span> <br>
+<b>[5] Wasserstein GAN</b> <span style="float: right;"><b>2019</b></span> <br>
 
 <b>[4] Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition</b> <span style="float: right;"><b>2019</b></span> <br>
 
