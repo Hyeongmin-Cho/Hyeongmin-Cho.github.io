@@ -138,6 +138,7 @@ with Korea University Ansan Hospital <br><br>
 
 <b>[1] Image zooming using directional cubic convolution interpolation</b> <span style="float: right;"><b>2019</b></span> <br>
 &emsp;\- Vision
+
 ---
 
 ## Study List
