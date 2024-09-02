@@ -104,30 +104,40 @@ with Korea University Ansan Hospital <br><br>
 &emsp;\- ODIN, AnoGAN, Deep-SVDD, DASVDD
 
 <b>[12] Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b> <span style="float: right;"><b>2021</b></span> <br>
+&emsp;\- AI Backdoor Defense
 
 <b>[11] WaNet - Imperceptible Warping-based Backdoor Attack</b> <span style="float: right;"><b>2021</b></span> <br>
+&emsp;\- AI Backdoor Attack
 
 <b>[10] Sampling Methods</b> <span style="float: right;"><b>2021</b></span> <br>
 &emsp;\- Monte Carlo, Rejection Sampling, MCMC
 
 <b>[9] Weight Uncertainty in Neural Networks</b> <span style="float: right;"><b>2020</b></span> <br>
+&emsp;\- Bayesian Neural Network
 
 <b>[8] Hands-on Bayesian Neural Networks - a Tutorial for Deep Learning Users</b> <span style="float: right;"><b>2020</b></span> <br>
+&emsp;\- Bayesian Neural Network
 
 <b>[7] SinGAN: Learning a Generative Model from a Single Natural Image</b> <span style="float: right;"><b>2020</b></span> <br>
+&emsp;\- Generative Models
 
 <b>[6] Flow-based Generative models (NICE, GLOW)</b> <span style="float: right;"><b>2020</b></span> <br>
+&emsp;\- Generative Models
 
 <b>[5] Wasserstein GAN</b> <span style="float: right;"><b>2019</b></span> <br>
+&emsp;\- Generative Models
 
 <b>[4] Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition</b> <span style="float: right;"><b>2019</b></span> <br>
+&emsp;\- AI Attack
 
 <b>[3] Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization</b> <span style="float: right;"><b>2019</b></span> <br>
+&emsp;\- Explainable AI (XAI)
 
 <b>[2] Part-based motion descriptor image for human action recognition</b> <span style="float: right;"><b>2019</b></span> <br>
+&emsp;\- Vision
 
 <b>[1] Image zooming using directional cubic convolution interpolation</b> <span style="float: right;"><b>2019</b></span> <br>
-
+&emsp;\- Vision
 ---
 
 ## Study List
