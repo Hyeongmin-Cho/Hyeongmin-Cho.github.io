@@ -36,20 +36,24 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 ---
 
 ## Publications
-[4] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach (to appear)</b> <br>
+[4] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach</b> <br>
 <u>Hyeongmin Cho</u>, Sooyoung Yoo, Borham Kim, Sowon Jang, Leonard Sunwoo, Sanghwan Kim, Donghyoung Lee, Seok Kim, Sejin Nam and Jin-Haeng Chung<br>
-Journal of Biomedical Informatics (SCIE, IF 4.0) <br><br>
+Journal of Biomedical Informatics (SCIE, IF 4.0) <br>
+&emsp;\- _Topic: LLM-based Information Extraction_<br><br>
 
 [3] <b>Data Quality Measures and Efficient Evaluation Algorithms for Large-Scale High-Dimensional Data</b> <br>
 <u>Hyeongmin Cho</u>, Sangkyun Lee <br>
-Applied Sciences (SCIE, IF 2.7), 11(2) <br><br>
+Applied Sciences (SCIE, IF 2.7), 11(2) <br>
+&emsp;\- _Topic: Data Complexity_<br><br>
 
 [2] <b>Machine Learning Data Poisoning Quantification using Linear Discriminant Analysis</b> <br>
 <u>Hyeongmin Cho</u>, Sangkyun Lee <br>
-Conference on Information Security and Cryptography <br><br>
+Conference on Information Security and Cryptography <br>
+&emsp;\- _Topic: Neural Network Vulnerability Attack_<br><br>
 
 [1] <b>A study on Neural Network-based Anomaly Detection and Data Augmentation Method to Improve the Performance of Network IDS</b> <br>
-Master's Thesis <br><br>
+Master's Thesis <br>
+&emsp;\- _Topic: Neural Network-based Anomaly Detection_<br><br>
 
 ---
 
