@@ -1,5 +1,5 @@
 ---
-title: &#91;논문구현&#93; Transformer (트랜스포머) 스크래치 구현부터 한영 번역 학습까지(Attention is All You Need)
+title: &#91; 논문구현 &#93; Transformer (트랜스포머) 스크래치 구현부터 한영 번역 학습까지(Attention is All You Need)
 author: Hyeongmin Cho
 date: 2024-10-21
 category: Jekyll
