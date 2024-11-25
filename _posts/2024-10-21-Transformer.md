@@ -2,6 +2,8 @@
 title: "[논문구현] Transformer (트랜스포머) 스크래치 구현부터 한영 번역 학습까지(Attention is All You Need)"
 author: Hyeongmin Cho
 date: 2024-10-21
+description: "Transformer 논문 'Attention is All You Need'를 스크래치로 구현하고 한영 번역 모델을 학습시키는 과정을 다룹니다."
+robots: "index, follow"
 category: Jekyll
 layout: post
 ---
