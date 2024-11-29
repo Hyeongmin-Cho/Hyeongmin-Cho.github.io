@@ -166,6 +166,7 @@ DeepSpeed는 Configuration만 설정하면 손쉽게 사용 가능하며, Config
 			'warmup_min_lr': Float,
 		    'warmup_max_lr': Float,
 		    'warmup_num_steps': Integer
+        }
     }
 }
 ```
