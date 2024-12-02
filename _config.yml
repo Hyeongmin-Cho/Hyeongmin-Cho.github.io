@@ -13,10 +13,10 @@ url:              'https://hyeongmin-cho.github.io'
 baseurl:          '/'
 rss:              RSS
 
-theme: jekyll-theme-chirpy
+# theme: jekyll-theme-chirpy
 
 # bootstrap: use the remote theme for the site itself
-# remote_theme: sighingnow/jekyll-gitbook
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 toc:
   enabled: true
