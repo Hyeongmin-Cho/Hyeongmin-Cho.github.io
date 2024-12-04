@@ -41,10 +41,15 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 ---
 
 ## Publications
-[4] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach</b> <br>
-<u>Hyeongmin Cho</u>, Sooyoung Yoo, Borham Kim, Sowon Jang, Leonard Sunwoo, Sanghwan Kim, Donghyoung Lee, Seok Kim, Sejin Nam and Jin-Haeng Chung<br>
+[5] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach</b> <br>
+**<u>Hyeongmin Cho</u>**, Sooyoung Yoo, Borham Kim, Sowon Jang, Leonard Sunwoo, Sanghwan Kim, Donghyoung Lee, Seok Kim, Sejin Nam and Jin-Haeng Chung<br>
 Journal of Biomedical Informatics (SCIE, IF 4.0) <br>
 _(Topic: LLM-based Information Extraction)_<br><br>
+
+[4] <b>AutomatedPathologic TN Classification Prediction and Rationale Generation from LungCancer Surgical Pathology Reports using a Large Language Model Fine-Tunedwith Chain-of-Thought</b> <br>
+Sanghwan Kim, Sowon Jang, Seok Kim, Leonard Sunwoo, Borham Kim, Jin-Haeng Chung, Sejin Nam, **<u>Hyeongmin Cho</u>** and Sooyoung Yoo<br>
+JMIR Medical Informatics (SCIE, IF 3.1) <br>
+_(Topic: LLM Reasoning)_<br><br>
 
 [3] <b>Data Quality Measures and Efficient Evaluation Algorithms for Large-Scale High-Dimensional Data</b> <br>
 <u>Hyeongmin Cho</u>, Sangkyun Lee <br>
@@ -148,21 +153,3 @@ with Korea University Ansan Hospital <br><br>
 &emsp;\- Vision
 
 ---
-
-## Study List
-
-- Stanford/CS231n
-- Stanford/CS229
-- Convex Optimization
-- Linear Algebra and Learning from Data
-- The Elements of Statistical Learning (ESL)
-- An Introduction to Statistical Learning (ISLR)
-- Bayesian Inference
-
-- Etc
-  - Curse of Dimensionality
-  - Fisher’s Linear Discriminant Analysis
-  - Gaussian Discriminant Analysis
-  - Support Vector Machine
-  - Non-linear Regression
-  - Linear Regression
