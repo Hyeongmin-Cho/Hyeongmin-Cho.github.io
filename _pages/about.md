@@ -47,7 +47,7 @@ Journal of Biomedical Informatics (SCIE, IF 4.0) <br>
 _(Topic: LLM-based Information Extraction)_<br><br>
 
 [4] <b>AutomatedPathologic TN Classification Prediction and Rationale Generation from LungCancer Surgical Pathology Reports using a Large Language Model Fine-Tunedwith Chain-of-Thought</b> <br>
-Sanghwan Kim, Sowon Jang, Seok Kim, Leonard Sunwoo, Borham Kim, Jin-Haeng Chung, Sejin Nam, **<u>Hyeongmin Cho</u>** and Sooyoung Yoo<br>
+Sanghwan Kim, Sowon Jang, Seok Kim, Leonard Sunwoo, Borham Kim, Jin-Haeng Chung, Sejin Nam, **<u>Hyeongmin Cho</u>**, Donghyoung Lee and Sooyoung Yoo<br>
 JMIR Medical Informatics (SCIE, IF 3.1) <br>
 _(Topic: LLM Reasoning)_<br><br>
 
