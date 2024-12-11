@@ -21,7 +21,8 @@
                     {{ content }}
                     
                     {% if page.comments != false %}
-                        <script src="https://giscus.app/client.js"
+                        <div class="giscus"></div>
+                        <!-- <script src="https://giscus.app/client.js"
                             data-repo="Hyeongmin-Cho/Hyeongmin-Cho.github.io"
                             data-repo-id="R_kgDOL-Z9UQ"
                             data-category="General"
@@ -35,7 +36,7 @@
                             data-lang="ko"
                             crossorigin="anonymous"
                             async>
-                        </script>
+                        </script> -->
                     {% endif %}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
@@ -59,3 +60,6 @@
 
 <!-- introduce mathjax support -->
 {% include fixes-chrome-anchors.html %}
+
+<!-- Add giscus script -->
+<script src="{{ '/assets/js/giscus.js' | relative_url }}"></script>
