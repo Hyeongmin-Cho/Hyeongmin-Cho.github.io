@@ -41,23 +41,28 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 ---
 
 ## Publications
-[5] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach</b> <br>
+[6] <b>Extracting lung cancer staging descriptors from pathology reports: a generative language model approach</b> <br>
 **<u>Hyeongmin Cho</u>**, Sooyoung Yoo, Borham Kim, Sowon Jang, Leonard Sunwoo, Sanghwan Kim, Donghyoung Lee, Seok Kim, Sejin Nam and Jin-Haeng Chung<br>
 Journal of Biomedical Informatics (SCIE, IF 4.0) <br>
 _(Topic: LLM-based Information Extraction)_<br><br>
 
-[4] <b>AutomatedPathologic TN Classification Prediction and Rationale Generation from LungCancer Surgical Pathology Reports using a Large Language Model Fine-Tunedwith Chain-of-Thought</b> <br>
-Sanghwan Kim, Sowon Jang, Seok Kim, Leonard Sunwoo, Borham Kim, Jin-Haeng Chung, Sejin Nam, **<u>Hyeongmin Cho</u>**, Donghyoung Lee and Sooyoung Yoo<br>
+[5] <b>AutomatedPathologic TN Classification Prediction and Rationale Generation from LungCancer Surgical Pathology Reports using a Large Language Model Fine-Tunedwith Chain-of-Thought</b> <br>
+Sanghwan Kim, Sowon Jang, Borham Kim, Leonard Sunwoo, Seok Kim, Jin-Haeng Chung, Sejin Nam, **<u>Hyeongmin Cho</u>**, Donghyoung Lee, Keehyuck Lee and Sooyoung Yoo<br>
 JMIR Medical Informatics (SCIE, IF 3.1) <br>
 _(Topic: LLM Reasoning)_<br><br>
 
+[4] <b>Impact of Prompt Formats on Medical Question-Answering Performance of Large Language Model</b> <br>
+**<u>Hyeongmin Cho</u>**, Donghyoung Lee, Inhu Kim and Sejin Nam<br>
+Conference on Korean Society of Medical Informatics (KOSMI) <br>
+_(Topic: LLM Prompt Engineering)_<br><br>
+
 [3] <b>Data Quality Measures and Efficient Evaluation Algorithms for Large-Scale High-Dimensional Data</b> <br>
-<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
+**<u>Hyeongmin Cho</u>**, Sangkyun Lee <br>
 Applied Sciences (SCIE, IF 2.7), 11(2) <br>
 _(Topic: ML Data Complexity_)<br><br>
 
 [2] <b>Machine Learning Data Poisoning Quantification using Linear Discriminant Analysis</b> <br>
-<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
+**<u>Hyeongmin Cho</u>**, Sangkyun Lee <br>
 Conference on Information Security and Cryptography <br>
 _(Topic: Neural Network Vulnerability Attack)_<br><br>
 
