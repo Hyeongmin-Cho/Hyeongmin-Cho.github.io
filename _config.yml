@@ -229,5 +229,5 @@ include:
   - google15c3c5d47da7cc24.html
   - robots.txt
 
-plugins:
-- jekyll-sitemap
+# plugins:
+# - jekyll-sitemap
