@@ -32,7 +32,7 @@ ezCaretech Research & Development Center <span style="float: right;"><b>2023.02 
 ## Education
 <b>Master's in Engineering</b> <span style="float: right;"><b>2020.03 - 2022.02</b></span> <br>
 \- Korea University, Anam <br>
-(Advisor: Prof. Sangkyun Lee [[Lab](http://air.korea.ac.kr/)]) <br><br>
+(Advisor: Prof. Sangkyun Lee [[Lab](https://air.korea.ac.kr/)]) <br><br>
 
 <b>Bachelor's in Computer Engineering</b> <span style="float: right;"><b>2015.03 - 2019.02</b></span> <br>
 \- Hanyang University, ERICA <br>
