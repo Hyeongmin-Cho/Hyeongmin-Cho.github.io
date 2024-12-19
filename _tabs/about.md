@@ -79,12 +79,13 @@ _(Topic: Neural Network Vulnerability Attack)_<br><br>
 ---
 
 ## Patents
+[3] <b>생성형 모델을 학습시키는 장치 및 방법</b> <br>
+(Application No. 10-2024-0186432)
+
 [2] <b>Network attack detection system and network attack detection method</b> <br>
-<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
 (Application No. 10-2021-0057656, Patent No. 10-2525-5930000)
 
 [1] <b>Network intrusion detection system and network intrusion detection method</b> <br>
-<u>Hyeongmin Cho</u>, Sangkyun Lee <br>
 (Application No. 10-2021-0057630, Patent No. 10-2526-9350000)
 
 ---
