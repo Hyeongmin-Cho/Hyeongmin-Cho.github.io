@@ -45,7 +45,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: 15c3c5d47da7cc24
+  google: google15c3c5d47da7cc24
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -229,8 +229,8 @@ include:
   - google15c3c5d47da7cc24.html
   - robots.txt
 
-plugins:
-- jekyll-sitemap
+# plugins:
+# - jekyll-sitemap
 
 # Conversion
 markdown: kramdown
