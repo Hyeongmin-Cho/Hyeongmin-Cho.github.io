@@ -8,6 +8,9 @@ description: "Transformer 논문 'Attention is All You Need'를 스크래치로 
 robots: "index, follow"
 pin: true
 math: true
+
+redirect_from:
+  - "/jekyll/2024-10-21-Transformer.html"
 ---
 
 # Transformer from Scratch in Pytorch

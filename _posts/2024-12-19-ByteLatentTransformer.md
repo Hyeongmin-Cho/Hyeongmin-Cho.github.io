@@ -8,6 +8,9 @@ description: "최근 메타에서 공개한 Byte Latent Transformer (BLT)를 정
 robots: "index, follow"
 pin: true
 math: true
+
+redirect_from:
+  - "/jekyll/2024-12-19-ByteLatentTransformer.html"
 ---
 
 > 바로 일주일 전 Meta에서 토크나이저(Tokenizer) 없이 Byte 단위로 문자를 입력받아 추론을 수행하는 트랜스포머(Transformer) 기반 거대언어모델(Large Language Model; LLM) [Byte Latent Transformer (BLT)](https://arxiv.org/abs/2412.09871)를 공개했습니다. 이번 포스트에서는 BLT의 개념에 대해 쉽게 풀어써 보려고 합니다.
