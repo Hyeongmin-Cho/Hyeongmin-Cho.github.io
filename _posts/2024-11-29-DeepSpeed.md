@@ -10,7 +10,7 @@ pin: true
 math: true
 
 redirect_from:
-  - "/jekyll/2024-11-29-DeepSpeed.html"
+  - /jekyll/2024-11-29-DeepSpeed.html
 ---
 
 
