@@ -230,7 +230,7 @@ include:
   - robots.txt
 
 plugins:
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 # - jekyll-sitemap
 
 # Conversion
