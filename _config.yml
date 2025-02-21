@@ -231,7 +231,7 @@ include:
 
 plugins:
   # - jekyll-redirect-from
-# - jekyll-sitemap
+  - jekyll-sitemap
 
 # Conversion
 markdown: kramdown
