@@ -10,7 +10,7 @@ pin: true
 math: true
 
 redirect_from:
-  - "/jekyll/2024-10-21-Transformer.html"
+  - /jekyll/2024-10-21-Transformer.html
 ---
 
 # Transformer from Scratch in Pytorch
