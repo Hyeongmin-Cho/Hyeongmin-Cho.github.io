@@ -7,6 +7,8 @@ robots: "index, follow"
 comments: false
 icon: fas fa-info-circle
 order: 4
+redirect_from:
+  - /pages/about/
 ---
 
 ## About Me
