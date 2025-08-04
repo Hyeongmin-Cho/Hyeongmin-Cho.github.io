@@ -228,10 +228,11 @@ jekyll-archives:
 include:
   - googlece7f440ea2d528fe.html
   - robots.txt
+  - sitemap_new.xml
 
 plugins:
   - jekyll-redirect-from
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 # Conversion
 markdown: kramdown
