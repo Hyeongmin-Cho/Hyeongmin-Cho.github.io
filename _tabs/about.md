@@ -1,7 +1,7 @@
 ---
 title: About
 author: Hyeongmin Cho
-date: 2024-10-21
+date: 2025-08-19
 description: "Hyeongmin Cho의 AI 관련 개인 블로그입니다."
 robots: "index, follow"
 comments: false
